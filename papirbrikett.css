@@ -61,3 +61,6 @@ p:first-letter{
 li{
   margin-top: 10px;
 }
+table{
+  border-bottom: solid 1px black;
+}
